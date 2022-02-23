@@ -30,6 +30,6 @@
   <a href="https://github.com/Dev-Paulo-Henrique" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://bitbucket.org/dev-paulo-henrique" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Dev-Paulo-henrique/Dev-Paulo-Henrique/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/blob/output/github-contribution-grid-snake.svg)
  
 </div>
