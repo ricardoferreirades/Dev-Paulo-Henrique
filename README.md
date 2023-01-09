@@ -1,8 +1,6 @@
+## Olá! Eu sou Dev Front-End, Paulo Henrique! 😀
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-  ##
-
-## Olá! Eu sou Dev Front-End, Paulo Henrique! 😀
 <div align="center">
   <a href="https://github.com/Dev-Paulo-Henrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Paulo-Henrique&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0e6&title_color=0e6&icon_color=0e6"/>
