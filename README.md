@@ -34,6 +34,7 @@
   <img align="center" alt="Paulo-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Paulo-Moodle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg">
   <img align="center" alt="Paulo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Paulo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
   ##
